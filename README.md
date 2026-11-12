@@ -6,8 +6,11 @@
 
 **Building intelligent solutions through AI, Machine Learning, and scalable technologies.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Akankshya-35-45)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+## Let's Connect
+
+- GitHub: [Akankshya-35-45](https://github.com/Akankshya-35-45)
+- LinkedIn: [Akankshya Rout](https://www.linkedin.com/in/akankshya-d-rout-635874363/)
+- LeetCode: [Akankshya](https://leetcode.com/u/NYUG4zSWOG/)
 
 </div>
 
