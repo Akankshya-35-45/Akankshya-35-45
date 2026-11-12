@@ -6,7 +6,7 @@
 
 **Building intelligent solutions through AI, Machine Learning, and scalable technologies.**
 
-<h2 align="center">Let's Connect</h2>
+
 
 <p align="center">
   <a href="https://github.com/Akankshya-35-45">
