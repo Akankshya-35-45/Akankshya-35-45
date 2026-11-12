@@ -6,11 +6,19 @@
 
 **Building intelligent solutions through AI, Machine Learning, and scalable technologies.**
 
-## Let's Connect
+<h2 align="center">Let's Connect</h2>
 
-- GitHub: [Akankshya-35-45](https://github.com/Akankshya-35-45)
-- LinkedIn: [Akankshya Rout](https://www.linkedin.com/in/akankshya-d-rout-635874363/)
-- LeetCode: [Akankshya](https://leetcode.com/u/NYUG4zSWOG/)
+<p align="center">
+  <a href="https://github.com/Akankshya-35-45">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akankshya-d-rout-635874363/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/NYUG4zSWOG/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 </div>
 
@@ -161,8 +169,11 @@ Artificial Intelligence | Machine Learning | Deep Learning | Neural Networks | C
 
 ## Let's Connect
 
+## Let's Connect
+
 - GitHub: [Akankshya-35-45](https://github.com/Akankshya-35-45)
-- LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- LinkedIn: [Akankshya Rout](https://www.linkedin.com/in/akankshya-d-rout-635874363/)
+- LeetCode: [Akankshya](https://leetcode.com/u/NYUG4zSWOG/)
 
 <div align="center">
 
